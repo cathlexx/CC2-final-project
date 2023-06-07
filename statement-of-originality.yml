@@ -1,7 +1,7 @@
 # adapted from https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
 
 # put *your* name here
-name:
+name: Caty Alexandra Samata and Selina Yilmaz
 
 declaration: >-
   I declare that everything I have submitted in this assignment is entirely my
@@ -18,14 +18,19 @@ collaboration:
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external code)
 code:
-  - comment:
-    url:
-    licence:
+  - comment: General info and tutorials on which we based patches for face recognition
+    url: https://soundand.design/jitter-6-computer-vision-with-cv-jit-part-1-f751fdb2d6d6
+    licence: - 
+
+code:
+  - comment: General info and tutorial on which we adapted patches for image to sound
+    url:https://www.youtube.com/watch?v=t9AwM0Br_HE
+    licence: - 
 
 
 # add as many "url+licence+comment" entries as necessary
-# (or remove it altogether if you haven't used any external assets)
+# (or remove it altogether if you haven't used any external assets
 assets:
-  - comment:
-    url:
-    licence:
+  - comment: Free sound 
+    url: In the assets
+    licence: -
